@@ -5,7 +5,7 @@ if(a%i==0){
 c++;
 }
 }
-if(c==1){
+if(c==2){
 console.log("prime")
 }
 else{
@@ -24,5 +24,5 @@ if(c==a){
 console.log("Yes")
 )
 else{
-('No')
+console.log('No')
 }
